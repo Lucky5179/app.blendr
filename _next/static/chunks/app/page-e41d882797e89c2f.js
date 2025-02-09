@@ -33,7 +33,7 @@
               className: "container",
               children: [
                 (0, n.jsx)(s.default, {
-                  href: "https://www.MAI.network/",
+                  href: "https://www.Blendr.network/",
                   children: (0, n.jsxs)("div", {
                     className: "logo",
                     children: [
@@ -43,7 +43,7 @@
                       }),
                       (0, n.jsx)("img", {
                         src: "/assets/img/logo-text.svg",
-                        alt: "MAI.ai",
+                        alt: "Blendr.ai",
                       }),
                     ],
                   }),
@@ -97,7 +97,7 @@
                         }),
                         (0, n.jsx)("li", {
                           children: (0, n.jsxs)("a", {
-                            href: "https://MAI-network.gitbook.io/MAI-network-technical-plan-docs",
+                            href: "https://Blendr-network.gitbook.io/Blendr-network-technical-plan-docs",
                             target: "_blank",
                             children: [
                               (0, n.jsx)("span", { children: "Documentation" }),
@@ -126,8 +126,8 @@
                             className: "btn btn-blue js_modal",
                             onClick: a,
                             children: [
-                              (0, n.jsx)("span", { children: "$MAI" }),
-                              (0, n.jsx)("span", { "data-text": "$MAI" }),
+                              (0, n.jsx)("span", { children: "$Blendr" }),
+                              (0, n.jsx)("span", { "data-text": "$Blendr" }),
                             ],
                           }),
                         }),
@@ -174,7 +174,7 @@
                       }),
                       (0, n.jsx)("img", {
                         src: "/assets/img/logo-text.svg",
-                        alt: "MAI.ai",
+                        alt: "Blendr.ai",
                       }),
                     ],
                   }),
@@ -192,7 +192,7 @@
                           }),
                           (0, n.jsx)("li", {
                             children: (0, n.jsx)("a", {
-                              href: "https://MAI-network.gitbook.io/MAI-network-technical-plan-docs",
+                              href: "https://Blendr-network.gitbook.io/Blendr-network-technical-plan-docs",
                               target: "_blank",
                               children: "Documentation",
                             }),
@@ -204,7 +204,7 @@
                           children: (0, n.jsx)("a", {
                             className: "js_modal",
                             href: "#buy",
-                            children: "$MAI",
+                            children: "$Blendr",
                           }),
                         }),
                       }),
@@ -220,7 +220,7 @@
                       }),
                       (0, n.jsx)("div", {
                         children:
-                          "Copyright \xa9 2025 MAI. All rights reserved.",
+                          "Copyright \xa9 2025 Blendr. All rights reserved.",
                       }),
                     ],
                   }),
@@ -234,7 +234,7 @@
           className: "modal ".concat(t ? "open" : ""),
           id: "buy",
           children: [
-            (0, n.jsx)("h2", { className: "title", children: "$MAI" }),
+            (0, n.jsx)("h2", { className: "title", children: "$Blendr" }),
             (0, n.jsxs)("ul", {
               className: "buy-btns",
               children: [
@@ -670,7 +670,7 @@
                     }),
                     (0, n.jsx)("div", {
                       className: "font-bold text-white text-4xl",
-                      children: "Connect to MAI",
+                      children: "Connect to Blendr",
                     }),
                     (0, n.jsxs)("div", {
                       className: "flex flex-col gap-2 px-4 w-full",
@@ -825,7 +825,7 @@
                           " ",
                           (0, n.jsx)("span", {
                             className: "font-bold",
-                            children: "https://staking.MAI.network",
+                            children: "https://staking.Blendr.network",
                           }),
                           " ",
                           "by typing the address into your browser and confirming the validity of the SSL certificate",
@@ -959,7 +959,7 @@
                 children: [
                   (0, n.jsxs)("p", {
                     className: "uppercase text-sm",
-                    children: [a.amount, " MAI"],
+                    children: [a.amount, " Blendr"],
                   }),
                   " ",
                   (0, n.jsxs)("p", {
@@ -1522,7 +1522,7 @@
                           children: [
                             (0, n.jsx)("p", {
                               className: "text-white opacity-50",
-                              children: "MAI APR",
+                              children: "Blendr APR",
                             }),
                             (0, n.jsxs)("p", {
                               className: "text-white text-2xl",
@@ -1546,7 +1546,7 @@
                                 }),
                                 (0, n.jsx)("p", {
                                   className: "text-[#6CFFCA] text-sm pl-2",
-                                  children: "MAI",
+                                  children: "Blendr",
                                 }),
                               ],
                             }),
@@ -1581,7 +1581,7 @@
                       children: [
                         (0, n.jsx)("p", {
                           className: "uppercase opacity-50 text-xl",
-                          children: "Stake MAI",
+                          children: "Stake Blendr",
                         }),
                         (0, n.jsx)("div", {
                           className:
@@ -1645,11 +1645,11 @@
                               children: s ? "".concat(F(s)) : "Not connected",
                             }),
                             (0, n.jsxs)("p", {
-                              children: [c || "0", " MAI"],
+                              children: [c || "0", " Blendr"],
                             }),
                             (0, n.jsxs)("p", {
                               className: "pb-8",
-                              children: [g, " MAI"],
+                              children: [g, " Blendr"],
                             }),
                             (0, n.jsx)("p", { children: r }),
                             (0, n.jsxs)("p", {
@@ -1715,7 +1715,7 @@
                     className:
                       "text-3xl md:text-4xl lg:text-5xl mt-12 sm:mt-10 md:mt-8 lg:mt-3",
                     children:
-                      "history" === e ? "Reward History" : "Stake Your MAI",
+                      "history" === e ? "Reward History" : "Stake Your Blendr",
                   }),
                   " ",
                 ],
@@ -1730,8 +1730,8 @@
                   className: "text-sm md:text-xl lg:text-xl",
                   children:
                     "history" === e
-                      ? "Track your MAI staking rewards"
-                      : "Stake MAI and receive MAI tokens as rewards",
+                      ? "Track your Blendr staking rewards"
+                      : "Stake Blendr and receive Blendr tokens as rewards",
                 }),
               }),
               (0, n.jsx)(es.E.div, {
@@ -1757,11 +1757,11 @@
           });
       let eg = (0, J.u_)({
         metadata: {
-          name: "MAI",
+          name: "Blendr",
           description:
             "Secure, scalable access to computing resources via blockchain for research and development.",
-          url: "https:/MAI.network/",
-          icons: ["https://staking.MAI.network/assets/img/logo-img.webp"],
+          url: "https:/Blendr.network/",
+          icons: ["https://staking.Blendr.network/assets/img/logo-img.webp"],
         },
       });
       function ej(e) {
